@@ -2,7 +2,6 @@ from datetime import time
 
 
 from . import db
-from .functions import calculate_rating
 
 
 class Courier(db.Model):
